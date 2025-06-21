@@ -1,0 +1,4 @@
+.env
+vectorstore_openai.pkl
+__pycache__/
+*.pyc
